@@ -1,0 +1,25 @@
+/* Medium screens*/
+@media only screen and (max-width: 40.063em) {
+    /*Header Top Bar Start*/
+    .top-bar {
+        display: grid;
+        grid-template-columns: 1fr 3fr;
+    }
+    .top-bar-right{
+        text-align: right;
+    }
+    /*Header Top Bar end*/
+} /* max-width 641px, medium screens */
+/* Medium screens*/
+@media only screen and (max-width: 992px) {
+    /*Header Top Bar Start*/
+    .top-bar-middle{
+        display: none;
+    }
+    .top-bar-right{
+      display: block;
+    }
+    /*Header Top Bar End*/
+} /* max-width 992px, medium screens */
+
+

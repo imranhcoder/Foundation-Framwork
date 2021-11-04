@@ -1,0 +1,74 @@
+/*
+Theme Name: Your Theme name
+Author: imran
+Author URI: https://imranhossain.dev
+Description: Your Theme Desc
+Version: 1.0.0
+Tested up to: 5.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+/*
+Globel style End
+=================*/
+
+/*
+Header Area Style Start
+=======================*/
+
+
+/*
+Header Topbar Style Start
+=======================*/
+.top-bar-right{
+    display: none;
+    line-height: 1px;
+}
+.top-bar-right i {
+    font-size: 25px;
+}
+.top-bar, .top-bar .menu {
+    background: none;
+    padding: 0;
+}
+.submenu {
+    background: #fff !important;
+}
+/*
+Header Topbar Style End
+=======================*/
+
+/*
+Header Area Style End
+=======================*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Footer Area Style Start
+=======================*/
+
+
+/*
+Footer Area Style End
+=======================*/
